@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "내 손을 잡아",
+  "base_artist": "아이유",
+  "createdAt": "2025-12-14T16:02:10.521319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "내 손을 잡아",
+      "artist": "아이유 (IU)",
+      "has_synced": true,
+      "path": "select/01_내_손을_잡아_아이유_(IU).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "내 손을 잡아 (Inst.)",
+      "artist": "아이유 (IU)",
+      "has_synced": true,
+      "path": "select/02_내_손을_잡아_(Inst.)_아이유_(IU).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "내 손을 잡아",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_내_손을_잡아_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "내 손을 잡아 (Inst.)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/04_내_손을_잡아_(Inst.)_IU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "내 손을 잡아",
+      "artist": "아이유",
+      "has_synced": true,
+      "path": "select/05_내_손을_잡아_아이유.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "내 손을 잡아",
+      "artist": "아이유",
+      "has_synced": true,
+      "path": "select/06_내_손을_잡아_아이유.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hold my hand (내 손을 잡아)",
+      "artist": "아이유",
+      "has_synced": true,
+      "path": "select/07_Hold_my_hand_(내_손을_잡아)_아이유.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "내 손을 잡아",
+      "artist": "아이유(IU)",
+      "has_synced": true,
+      "path": "select/08_내_손을_잡아_아이유(IU).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "내 손을 잡아 (inst)",
+      "artist": "아이유",
+      "has_synced": true,
+      "path": "select/09_내_손을_잡아_(inst)_아이유.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hold my hand (내 손을 잡아)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/10_Hold_my_hand_(내_손을_잡아)_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "내 손을 잡아",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_내_손을_잡아_IU.txt"
+    }
+  ]
+}
